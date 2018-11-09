@@ -28,7 +28,7 @@ public class Main {
         Loader.init();
         PokeKeyGetter.init();
         builder = new JDABuilder(AccountType.CLIENT);
-        builder.setToken(Loader.getValue("token"));
+        builder.setToken(System.getenv("TOKEN"));
         builder.setAutoReconnect(true);
         builder.setAudioEnabled(true);
         builder.addEventListener(new CommandListener());
