@@ -1,1 +1,1 @@
-worker: java -cp discord64.jar Core.Main
+worker: java -cp discord64.jar 
