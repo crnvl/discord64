@@ -1,1 +1,1 @@
-worker: java -cp discord64.jar 
+worker: java jar 0.1.jar 
