@@ -16,4 +16,13 @@ DISCLAIMER: THIS IS FOR TESTING PURPOSES ONLY! USE THIS PROGRAM ON YOUR OWN RISK
 
 [ Download Link will follow soon! ]
 
-[ Setup Tutorial will follow soon! ]
+## SETUP
+This tutorial will show you step-by-step how you can setup discord64 on your device!
+
+1. Download the .rar file from the link above.
+2. Open the rar file and extract it into an empty folder on your desktop
+3. Open the config.properties with Notepad++ or the texteditor of your choice
+4. Fill out the required information in the configuration file
+5. Save the configuration file 
+6. double click the run.bat and wait till it's connected.
+7. Your Discord64 Client is now running!
