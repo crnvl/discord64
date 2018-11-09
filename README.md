@@ -4,6 +4,7 @@ A multi-functional Discord Account Extension
 Status: Ongoing
 
 Discord64 is an easy to use Account Extension with useful functions
+
 You will get: 
 - Music Commands (Turn your Account into a Music Bot!)
 - Pokécord Autocatcher (Catch Pokemon on the Discord Bot Pokécord automatically!)
