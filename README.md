@@ -12,6 +12,8 @@ You will get:
 - Echo Command (Use this, to communicate as the selfbot)
 - Advanced Autocatcher (Catches Pokémon and lists them on the Pokécord Market Automatically!)
 
+DISCLAIMER: THIS IS FOR TESTING PURPOSES ONLY! USE THIS PROGRAM ON YOUR OWN RISK SINCE DISCORD OR BOT OWNERS CAN BAN YOUR ACCOUNT
+
 [ Download Link will follow soon! ]
 
 [ Setup Tutorial will follow soon! ]
