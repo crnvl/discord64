@@ -14,7 +14,8 @@ You will get:
 
 DISCLAIMER: THIS IS FOR TESTING PURPOSES ONLY! USE THIS PROGRAM ON YOUR OWN RISK SINCE DISCORD OR BOT OWNERS CAN BAN YOUR ACCOUNT
 
-[ Download Link will follow soon! ]
+## DOWNLOAD
+https://bit.ly/2OBAkqD
 
 ## SETUP
 This tutorial will show you step-by-step how you can setup discord64 on your device!
