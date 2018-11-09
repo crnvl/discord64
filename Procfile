@@ -1,1 +1,1 @@
-worker: java -jar target/0.1-0.0.1-SNAPSHOT.jar
+worker: java -jar target/discord64-1.0-SNAPSHOT.jar
