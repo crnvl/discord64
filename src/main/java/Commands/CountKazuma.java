@@ -14,20 +14,32 @@ public class CountKazuma implements RunInterface{
 
     @Override
     public void action(String[] args, MessageReceivedEvent event) {
-        event.getMessage().delete().queue();
-        Timer timer = new Timer();
+       
+
+        Timer myTimer1 = new Timer();
         TimerTask task = new TimerTask() {
             int secondsPassed = 0;
             @Override
             public void run() {
                 switch(secondsPassed){
                     case 0: event.getTextChannel().sendMessage(event.getTextChannel().getTopic()).queue();
+                        secondsPassed++;
+                        break;
+                    case 1: event.getTextChannel().sendMessage(event.getTextChannel().getTopic()).queue();
+                        secondsPassed++;
+                        break;
+                    case 2: event.getTextChannel().sendMessage(event.getTextChannel().getTopic()).queue();
+                        secondsPassed++;
+                        break;
+                    case 3: event.getTextChannel().sendMessage(event.getTextChannel().getTopic()).queue();
+                        secondsPassed++;
                         secondsPassed = 0;
                         break;
                 }
             }
         };
-        timer.schedule(task, 2000, 2000);
+        myTimer1.schedule(task, 1000, 2000);
+
     }
 
     @Override
