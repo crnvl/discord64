@@ -56,6 +56,7 @@ public class Main {
         CommandHandler.commands.put("music", new MusicCommand());
         CommandHandler.commands.put("reload", new RefreshConfig());
         CommandHandler.commands.put("exit", new StopCommand());
+        CommandHandler.commands.put("count", new CountKazuma());
     }
 
 }
