@@ -17,6 +17,12 @@ DISCLAIMER: THIS IS FOR TESTING PURPOSES ONLY! USE THIS PROGRAM ON YOUR OWN RISK
 ## DOWNLOAD
 https://bit.ly/2OBAkqD
 
+## Commands
+Please add the prefix before adding a command. every command is starting with the prefix.
+``music play``, ``music stop`` - Play and Stop Music
+``spammer``- spams messages (one per 2 seconds) in the current channel
+Other Functions are configurable in the config file
+
 ## SETUP
 This tutorial will show you step-by-step how you can setup discord64 on your device!
 
