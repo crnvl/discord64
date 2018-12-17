@@ -19,8 +19,16 @@ https://bit.ly/2OBAkqD
 
 ## Commands
 Please add the prefix before adding a command. every command is starting with the prefix.
+
 ``music play``, ``music stop`` - Play and Stop Music
+
 ``spammer``- spams messages (one per 2 seconds) in the current channel
+
+``exit`` - stops the current session and closes the application
+
+``reload`` - Reloads the Config (unnecessary command since the config file cant be edited while running the program
+
+
 Other Functions are configurable in the config file
 
 ## SETUP
