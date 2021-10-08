@@ -1,7 +1,7 @@
 # discord64
 A multi-functional Discord Account Extension
 
-Status: Ongoing
+Status: Cancelled
 
 Discord64 is an easy to use Account Extension with useful functions
 
